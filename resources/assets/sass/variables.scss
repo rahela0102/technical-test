@@ -1,0 +1,22 @@
+
+$primary-b: Gotham-Bold;
+$primary-m: Gotham-Medium;
+$main-b: Montserrat-SemiBold;
+$second-b: OpenSans-Bold;
+$third-bl: Arial-Black;
+$third-b: Arial-BoldMT;
+
+:root {
+    --primary-b: #{$primary-b};
+    --primary-m: #{$primary-m};
+    --second-b: #{$second-b};
+    --third-bl: #{$third-bl};
+    --third-b: #{$third-b};
+
+
+
+    --main-color: #db3f7c;
+    --second-color: #0a2643;
+    --white-color: #ffffff;
+    --gray-color: #828282;
+}

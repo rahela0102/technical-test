@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".open-popup").on("click",(function(p){$(".popup").addClass("show-popup")})),$(".popup").on("click",(function(p){(p.target===$(".popup")[0]||p.target===$(".popup-container")[0])&&$(".popup").removeClass("show-popup")}))}));
